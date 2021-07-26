@@ -1,2 +1,12 @@
 Given IAM roles to any service grant access to other services
+KMS => Key Management Service: This manages keys
+CPK => Customer Primary Key 
 
+EC2 instances cannot be encrypted but the volume attached to it can be encrypted.
+
+CloudTrail: it logs every activities that happens in AWS.
+
+CloudWatch: It manages tasks in AWS
+
+Homework
+1. Design a secure architecture
